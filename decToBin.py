@@ -3,7 +3,7 @@
 '''
 Convert Decimal to Binary in Python
 '''
-num = 2
+num = 10 #ENTER A POSITIVE NUMBER HERE
 
 result = ''
 if num == 0:

@@ -17,8 +17,6 @@ while num > 0:
 
 print(result)
 
-print(1/2)
-
 
  
 

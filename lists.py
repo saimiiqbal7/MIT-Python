@@ -21,4 +21,3 @@ def countWords(sen):
     l = sen.split(' ')
     return len(l)
 
-

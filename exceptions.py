@@ -25,4 +25,25 @@ def divide():
         return "Inputs not valid"
         
 
-print(divide())
+def pairwise(lnum, lden):
+
+    '''Both inputs are non empty lists of equal lengths'''
+
+    l = []
+
+    for i in range(len(lnum)):
+
+        try:
+            l.append(lnum[i]/lden[i])
+        
+        except:
+            print("code has error")
+
+    
+    return l
+
+
+
+
+
+

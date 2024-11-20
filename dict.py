@@ -1,4 +1,4 @@
-"""
+
 #myDict = {} Empty
 
 grades = {'Ana': 'B', 'Matt': 'A', 'Saim': 'A', 'Linta': 'A+'}
@@ -44,7 +44,7 @@ for key in grades.keys():
     print(key)
 
 for value in grades.values():
-    print(value)"""
+    print(value)
 
 g = {'Saim': {'mq':[5,4,4], 'ps': [10,9,9], 'fin': 'A'},
      'Linta': {'mq':[6,8,4], 'ps': [10,10,10], 'fin': 'A'}} 

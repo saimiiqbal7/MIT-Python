@@ -22,5 +22,9 @@ def countWords(sen):
     return len(l)
 
 l = [1,2,3,4,5,6]
-del(l[0])
+m = l.copy()
+k = l
+k[0] = 2
+l[1] = 3
 print(l)
+print(m)

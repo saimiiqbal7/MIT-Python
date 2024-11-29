@@ -9,3 +9,10 @@ def mult(a,b):
     return total
 
 print(mult(2,3))
+
+def factorial(n):
+
+    pass
+
+print(factorial(2))
+
